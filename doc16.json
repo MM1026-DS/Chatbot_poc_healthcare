@@ -1,0 +1,83 @@
+{
+"intent_model":[
+{
+"context": "Doctor",
+"utterances": [
+  "Who are the best doctors for heart disease",
+  "Who are the best doctors for Cardiovascular disease",
+  "Who are the best doctors for skin",
+  "best doctors for dermatology",
+  "best physician",
+  "what is the clinic location of Doctor Mayank",
+  "Best doctor Near my location for Cardiology",
+  "Please provide the name of the doctors which have fees less than 500 rupees",
+  "what is timing for Doctor Soumya",
+  "Which is the best dental clinic",
+  "what is the fees of doctor rishabh",
+  "doctor with  fees more than 1000 rupees",
+  "What is the Speciliatity of Doctor Piyush",
+  "What is the Speciliatity of Doctor Mayank",
+  "What is the Speciliatity of Doctor Soumya",
+  "What is the Speciliatity of Doctor Rishabh",
+  "What is the Speciliatity of Doctor Deepshikha",
+  "What is the Clinic location of Doctor Piyush",
+  "What is the Clinic Location of Doctor Soumya",
+  "What is the Clinic Location of Doctor Deepshikha",
+  "what is the fees of doctor piyush",
+  "what is the fees of doctor mayank",
+  "what is the fees of doctor soumya",
+  "what is the fees of doctor deepshikha",
+  "Who is the Doctor of Patient Aditya",
+  "Who is the Doctor of Patient Harsh",
+  "Who is the Doctor of Patient Yuvraj",
+  "Who is the Doctor of Patient Amit",
+  "Who is the Doctor of Patient Garima",
+  "What is the rating of Doctor Mayank Mishra",
+  "What is the rating of Doctor Piyush Singh",
+  "What is the rating of Doctor Soumya",
+  "What is the rating of Doctor Deepshikha",
+  "What is the rating of Doctor Rishabh Yadav",
+  "Best rating Doctor",
+  "Worst rating Doctor",
+  "Highest rating Doctor",
+  "lowest rating doctor"
+]
+},
+{
+"context":"Patient",
+"utterances":[
+  "what is the minium age of the patient of doctor Mayank",
+  "what is the sickness reason of Devashree Gupta",
+  "what is the sickness reason for Aditya sonkar",
+  "what is the sickness reason for Amit Patel",
+  "how many girls are sick from last year",
+  "what is the maximum age of the patient",
+  "what is the reason of sickness of alok patel",
+  "most sick patiet",
+  "what is the age and gender of minimun age patient",
+  
+  "what is the reason of sickness of maximum age patient",
+  "what is the health issue with Aditya sonkar",
+  "What is the health issue with Harsh ",
+  "What is the Health issue with Yuvraj",
+  "What is the health issue with Amit",
+  "What is the Health issue with Garima",
+  "Mininum age patient name",
+  "Maximum age patient name",
+  "Average age of patients",
+  "Disease name of patient garima",
+  "Disease name of Patient Aditya Sonkar",
+  "Disease name of Patient Harsh Mishra",
+  "Disease name of Patient Amit",
+  "Disease name of Patient Yuvraj Sinha",
+  "health issue with patient id 1 patient aditya sonkar",
+  "health issue with patient id 2 patient harsh",
+  "health issue with patient id 3 patient yuvraj",
+  "health issue with patient id 4 patient amit",
+  "health issue with patient id 5 patient garima"
+  
+  
+]
+}
+]
+}

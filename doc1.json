@@ -1,0 +1,34 @@
+{
+"intent_model":[
+{
+"context": "Doctor",
+"utterances": [
+  "Who are the best doctors for Cardiologist",
+  "Who are the best doctors for skin",
+  "what is the clinic location for Doctor Mayank"
+  "Best doctor Near my location for Cardiologist"
+  "Please provide the name of the doctors which have fees less than 500 rupees"
+  "what is timing for Doctor Soumya"
+  "Which is the best dental clinic "
+  "what is the Dr. Rishabh Consutant fees"
+  "what is the speciality of Doctor Piyush"
+  "doctor with consultant fees more than 1000 rupees"
+]
+},
+{
+"context":"Patient",
+"utterances":[
+  "what is the minium age of the patient of doctor Mayank ",
+  "what is the sickness reason of Devashree Gupta",
+  "what is the sickness reason for Aditya sonkar "
+  "what is the sickness reason for Amit Patel"
+  "how many girls are sick from last year"
+  "what is the maximum age of the patient"
+  "what is the reason of sickness of alok patel"
+  "most sick patiet"
+  "what is the age and gender of minimun age patient"
+  "what is the reason of sickness of maximum age patient"
+]
+}
+]
+}
